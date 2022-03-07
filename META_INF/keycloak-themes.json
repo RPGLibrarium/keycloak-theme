@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "liberation",
+        "types": [ "login" ]
+    }]
+}
