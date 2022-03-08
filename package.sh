@@ -1,2 +1,4 @@
 #/bin/bash
-zip liberation-theme.jar -r login -r META_INF
+JAR=liberation-theme.jar
+rm $JAR
+zip $JAR -r theme -r META-INF
